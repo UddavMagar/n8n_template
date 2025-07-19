@@ -16,7 +16,7 @@ This template helps you quickly set up a self-hosted [n8n](https://n8n.io) workf
 
 # Clone this template into your new project folder
 ```sh
-git clone https://github.com/your-username/n8n-template.git my-new-project
+git clone https://github.com/UddavMagar/n8n_template.git my-new-project
 ```
 
 
