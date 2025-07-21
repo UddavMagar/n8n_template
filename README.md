@@ -31,6 +31,8 @@ cd my-new-project
 rm -rf .git
 ```
 
+# For Windows user you need to run Docker Desktop to avoid errors
+
 
 # Run the n8n container
 ```sh
